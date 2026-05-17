@@ -22,8 +22,8 @@ I'm interested in data science, machine learning, analytics, and software develo
 ### [NBA Draft Combine Exploratory Data Analysis](https://github.com/jalsavani/NBA-Draft-Combine-EDA)
 Exploratory data analysis project using Python, Pandas, and Matplotlib to analyze NBA Draft Combine player measurements, athletic performance, and positional trends.
 
-### [YouTube Data Dive](https://github.com/jalsavani/youtube-data-dive)
-Scrapes, cleans, and visualizes YouTube trend data using Python and Pandas.
+### [Kaecilius Ruin (Java RPG)](https://github.com/jalsavani/KaeciliusRuin)
+Turn-based fantasy RPG where players choose archetypes, battle bosses, manage mana and HP, and defeat Kaecilius, the Dragon King of Ruin.
 
 ### [Pomodoro Productivity App](https://github.com/jalsavani/pomodoro-app)
 SVG-based focus timer application built with JavaScript.
