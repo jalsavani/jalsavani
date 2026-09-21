@@ -28,8 +28,6 @@ Turn-based fantasy RPG where players choose archetypes, battle bosses, manage ma
 ### [Pomodoro Productivity App](https://github.com/jalsavani/pomodoro-app)
 SVG-based focus timer application built with JavaScript.
 
-### [Offline Voice Assistant](https://github.com/jalsavani/voice-assistant)
-Local voice automation assistant built with Python.
 
 ## 📈 Current Interests
 
